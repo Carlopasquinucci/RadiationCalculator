@@ -27,7 +27,7 @@ based on [Law of Stefan-Boltzmann](https://en.wikipedia.org/wiki/Stefan%E2%80%93
 More deatils [here](https://en.wikipedia.org/wiki/Radiation) .
 
 
-## Explanation ready - Support
+## Explanation - Support
 
 To run the script, simply write python Radiation.py.
 
